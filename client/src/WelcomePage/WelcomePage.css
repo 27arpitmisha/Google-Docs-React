@@ -1,0 +1,68 @@
+/* .btn-group .button {
+    background-color: #4CAF50; 
+    border: 1px solid green;
+    color: white;
+    border-radius: 3%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;   
+  }
+  
+  .btn-group .button:hover {
+    background-color: #3e8e41;
+  }
+
+  .input {
+  
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+.input-error{
+    margin-top: 30px;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;   
+    border: 2px solid red;
+} 
+
+.container {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+  }
+
+.card {    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 700px;
+    margin-top: 20px;  
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .containers {
+    padding: 2px 16px;
+  }
+
+  img{
+      width: 100%;
+    height: 300px;
+  } */
+
+  .input-error{
+    border:  solid red;
+} 
